@@ -1,7 +1,3 @@
----
-permalink: /about/
-title: "About"
----
 
 # À propos
 
