@@ -1,3 +1,11 @@
+---
+title: "À propos"
+permalink: /about/
+---
+
+# À propos
+
+Je m'appelle Jacqueline Trang...
 
 # À propos
 
