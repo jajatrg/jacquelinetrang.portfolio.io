@@ -2,14 +2,7 @@
 title: "À propos"
 permalink: /about/
 ---
-
-# À propos
-
-Je m'appelle Jacqueline Trang...
-
-# À propos
-
-Je m'appelle Jacqueline Trang, je suis actuellement stagiaire Sales & Business Intelligence Analyst chez Kenvue dans l'industrie pharmaceutique.
+Actuellement stagiaire en tant que Business Intelligence Analyst chez Kenvue dans l'industrie pharmaceutique.
 
 Je m'intéresse à la Business Intelligence, à l'analyse de données et à la visualisation avec Power BI.
 
@@ -17,7 +10,7 @@ Je m'intéresse à la Business Intelligence, à l'analyse de données et à la v
 
 - Power BI
 - SQL
-- Python
+- R
 - Excel
 - DAX
 - Power Query
